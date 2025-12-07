@@ -95,27 +95,14 @@
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/faizal amaan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal amaan" height="60" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/faizal amaan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizal amaan" height="60" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/itz_me_fez" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_me_fez" height="60" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/epicexplorer88" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epicexplorer88" height="60" width="60" />
-  </a>
-</p>
+<a href="https://x.com/Undefined_40_4" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/shukry7/" target="_blank"><img alt="" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin1122" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/shukry_77/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a><a href="https://www.facebook.com/shukry.77/" target="_blank"><img alt="" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=1877F2" style="vertical-align:center" /></a>
+<a href="https://leetcode.com/u/DedSec-24/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode&logoColor=f09a1a" style="vertical-align:center" /></a></p>
 
 
-## Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faizal2017/Faizal2017/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faizal2017/Faizal2017/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Faizal2017/Faizal2017/output/pacman-contribution-graph.svg">
-</picture>
+
+
 
 
 ---
