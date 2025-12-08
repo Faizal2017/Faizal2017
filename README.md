@@ -14,7 +14,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Faizal2017&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
- <marquee> About Me.. </marquee> 
+ <marquee align="center"> About Me.. </marquee> 
 ---
 <table align="center">
 <tr border="none">
@@ -44,7 +44,7 @@
 ---
 
 
-<h3 align="center">⚙️ &nbsp;GitHub Analytics</h3>
+<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 
 
 <p align="center">
